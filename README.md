@@ -1,5 +1,5 @@
 # Gareth Behn's professional portfolio
-[Insert GIF here]
+![Portfolio](https://github.com/GBehn/portfolio/blob/main/assets/img/GB%20gif.gif)
 ## What is this?
 * A place to showcase the projects I've worked on, as well as my ongoing progress on my Full Stack Engineering course.
 ## How was it created?
